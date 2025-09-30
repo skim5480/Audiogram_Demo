@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # -------------------------------
 # Load demo structured dataset
 # -------------------------------
-audiogram_df = pd.read_csv(r"C:\Users\skim\OneDrive - AAO-HNS\Documents\Reg-ent\Research Projects\Audiogram\Audiogram_DF.csv")
+audiogram_df = pd.read_csv('Audiogram_DF.csv')
 
 # -------------------------------
 # Streamlit App UI
